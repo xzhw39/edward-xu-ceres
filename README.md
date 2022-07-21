@@ -53,7 +53,7 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 Please download the following videos to watch:
 
-[Deployed Application]()
+[Deployed Application](https://gentle-cove-92630.herokuapp.com/)
 
 [GitHub](https://github.com/xzhw39/edward-xu-ceres)
 
